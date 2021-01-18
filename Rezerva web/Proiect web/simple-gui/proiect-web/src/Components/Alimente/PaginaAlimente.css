@@ -1,0 +1,36 @@
+.Content {
+    display: flex;
+    flex-direction: line;
+}
+
+.alimentPA {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.unButon{
+    background: transparent;
+    border: transparent;
+    display: block;
+    flex: left;
+    margin-top: 1%;
+}
+
+.eatClass {
+    display: block;
+    margin-bottom: 0px;
+    background-color: #333;
+    color: bisque;
+    font-family: Tahoma;
+    box-shadow: 2px 3px 2px #888888;
+}
+
+.dispClass {
+    margin-top: 1px;
+    margin-bottom: 10px;
+    display: block;
+    background-color: #333;
+    color: bisque;
+    font-family: Tahoma;
+    box-shadow: 2px 3px 2px #888888;
+}

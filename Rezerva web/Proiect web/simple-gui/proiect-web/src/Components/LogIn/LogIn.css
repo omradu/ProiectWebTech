@@ -1,0 +1,19 @@
+.form {
+    padding: 5%;
+    align-items: center;
+}
+
+.inputTextLogIn {
+    margin: 3%;
+    width: 90%;
+}
+
+.imageLogo {
+    width: 21em;
+}
+
+.imageLogo>img {
+    width: 70%;
+    height: 70%;
+    margin-bottom: 10%;
+}
